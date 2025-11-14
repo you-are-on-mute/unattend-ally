@@ -6,7 +6,7 @@ A full Windows 11 25H2 deployment
 
 ## Out of Scope
 - **Activation:** The product key used in the autounattend.xml is a generic (non OEM) Pro key - but Windows will ask for activation
-- **Drivers:** Due to the size limitations of GitHub, drivers are not included in the repo, but detailed instructions are listed in the [**DRIVERS**](https://github.com/you-are-on-mute/unattend-ally-x/tree/commit#drivers) section below.
+- **Drivers:** Due to the size limitations of GitHub, drivers are not included in the repo, but detailed instructions are listed in the [**DRIVERS**](https://github.com/you-are-on-mute/unattend-ally?tab=readme-ov-file#drivers) section below.
 
 ## Prereqs
 1. A working laptop or PC (build PC).
